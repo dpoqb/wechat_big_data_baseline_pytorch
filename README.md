@@ -27,11 +27,16 @@ baseline纯为学习和参考，有什么做的不对的地方，还请大佬们
 
 ## 5.模型及参数
 模型：DeepFM
+
 参数：
 batch_size: 512
+
 optim: Adagrad
+
 num_epochs: 5
+
 learning_rate: 0.1
+
 
 ## 6.模型结果
 我的线下验证集评价指标还没有改成和官网一致的方法，所以参考意义不大，需要大家重写评估方法
