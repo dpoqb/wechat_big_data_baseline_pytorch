@@ -1,6 +1,6 @@
 # 2021中国高校计算机大赛-微信大数据挑战赛Baseline（Pytorch版）
 
-代码实现基于[DeepCTR](https://github.com/shenweichen/DeepCTR-Torch)，只做了简单数据预处理，可以尝试改进原有的模块，并尝试新的模型和新的建模方法。
+代码实现基于[DeepCTR](https://github.com/shenweichen/DeepCTR-Torch)，只做了简单数据预处理，单个任务逐个预测，大家可以尝试改进原有的模块，并尝试新的模型和新的建模方法。
 baseline纯为学习和参考，有什么做的不对的地方，还请大佬们批评和指正😄
 
 ## 1.环境配置
